@@ -6,9 +6,7 @@ venv/
 __pycache__/
 *.pyc
 
-# Local Data (Prevents uploading large datasets)
-*.csv
-*.json
+
 
 # OS files
 .DS_Store
